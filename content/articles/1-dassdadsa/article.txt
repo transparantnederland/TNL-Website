@@ -1,0 +1,26 @@
+Title: Innovatiesubsidie voor Transparant Nederland
+
+----
+
+Year: 2015
+
+----
+
+Text: 
+
+Zeven ideeën voor journalistieke vernieuwing ontvangen persinnovatie-subsidie van het Stimuleringsfonds voor de Journalistiek. Eén van de gehonoreerde projecten is Transparant Nederland. Dit project faciliteert permanent netwerkanalyses door inzichtelijk te maken hoe de bestuurlijke macht in Nederland werkt op basis van (open) data van personen, organisaties en relaties.
+
+De databank van Transparant Nederland gaat dit inzichtelijk maken. Om de databank zo goed mogelijk te ontwikkelen wordt onderzoek gedaan naar beschikbare data, een digitaal platform ontwikkeld voor ontsluiting daarvan, een API gecreëerd die hergebruik faciliteert en een businessmodel uitgedacht en opgezet voor de continuïteit. Daarnaast wordt de database samen met vijf mediapartners gebruikt voor netwerkanalyses en visualisaties die bestuurlijke machtsstructuren in kaart brengen waarover nieuwsitems kunnen worden gemaakt.
+
+Uitvoerende partijen in Transparant Nederland zijn: Netwerk Democratie, Universiteit van Amsterdam, Universiteit van Leiden, Waag Society en de mediapartners: de Volkskrant, VPRO’s Tegenlicht, de Correspondent, Nieuwsuur.
+
+----
+
+Tags: 
+
+----
+
+Related: 
+
+- articles/dsadadasdsa
+- articles/dassdadsa

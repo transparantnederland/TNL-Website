@@ -1,0 +1,20 @@
+Title: Voorbeeld set 2
+
+----
+
+Year: 
+
+----
+
+Text: 
+
+Morbi a dapibus neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu arcu nec ante imperdiet aliquet id maximus nunc. Mauris accumsan quam sed convallis ultricies. Nunc neque ipsum, blandit porta iaculis et, rhoncus in quam. Donec diam ex, aliquet vitae accumsan sit amet, tempus in dui. Mauris maximus dignissim magna ut pharetra. Nullam vel malesuada risus. Nulla venenatis dapibus tortor, nec convallis arcu varius vel. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse commodo, ipsum at ullamcorper convallis, risus ligula malesuada ligula, aliquet imperdiet turpis nisi sed justo. Phasellus blandit massa non nisl convallis pulvinar. Mauris eleifend eros id sapien volutpat, quis imperdiet velit tincidunt. Etiam ut nisl vel purus auctor egestas. Ut eu sodales mauris.
+
+Vestibulum augue felis, scelerisque eu posuere et, molestie et libero. Nam viverra auctor dolor. Nullam iaculis dolor metus. Quisque sagittis et ligula sed elementum. Sed tempor tristique luctus. Suspendisse commodo ipsum id bibendum dapibus. Quisque sit amet dapibus massa, eu vulputate turpis. Proin pulvinar egestas leo in vehicula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer ultricies, libero id ultrices scelerisque, ante velit fermentum purus, in malesuada nisi quam eget odio. In condimentum aliquet urna et rutrum. Morbi interdum turpis eget volutpat venenatis.
+
+(image: braun-recorder-rams.jpg)
+(gist: https://gist.github.com/bertspaan/d6ed67fc5a4ad883873e)
+
+----
+
+Tags: 

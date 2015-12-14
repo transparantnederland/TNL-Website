@@ -1,0 +1,17 @@
+Title: Test article
+
+----
+
+Year: 
+
+----
+
+Text: Test articleTest articleTest articleTest articleTest article Test articleTest articleTest articleTest articleTest articleTest article
+
+----
+
+Tags: 
+
+----
+
+Related: 

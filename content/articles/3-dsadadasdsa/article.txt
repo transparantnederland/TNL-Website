@@ -1,0 +1,70 @@
+Title: Dataplatform voor analyse en inzicht in bestuurlijke verhoudingen, relaties en macht
+
+----
+
+Year: 
+
+----
+
+Text: 
+
+**Transparant Nederland faciliteert permanent netwerkanalyses door inzichtelijk te maken hoe de bestuurlijke macht in Nederland werkt op basis van (open) data van personen, organisaties en relaties.**
+
+Transparant Nederland is enerzijds een databank waaruit de relaties en verbindingen tussen politici en mensen en organisaties in het bedrijfsleven, maatschappelijke organisaties, overheid, universiteiten en denktanks gedestilleerd worden. Om deze databank op de best mogelijke wijze te maken wordt onderzoek gedaan naar beschikbare data, een digitaal platform ontwikkeld voor ontsluiting daarvan, een API gecreëerd die hergebruik faciliteert en een business model uitgedacht en opgezet voor de continuïteit. Anderzijds is Transparant Nederland de mediacampagne met de vier mediapartners. Samen met de mediapartners wordt de database gebruikt voor netwerkanalyses en visualisaties daarvan. Deze brengen bestuurlijke machtsstructuren in kaart op basis waarvan artikelen geschreven en gepubliceerd worden of nieuwsitems kunnen worden geproduceerd.
+
+**Waarom is het vernieuwend voor de journalistiek?**
+
+Transparant Nederland is op een aantal manieren vernieuwend. In Nederland (en wereldwijd) bestaat er nog geen initiatief als Transparant Nederland. Er bestaan wel initiatieven die hetzelfde doel van bestuurlijke transparantie nastreven als Opencorporates.com, Little-sis.org, Influenceexplorer.com en in Nederland Toeval of Niet van Open State Foundation.
+Geen van deze initiatieven voorschaft de media een dataplatform waarmee netwerk analyses en visualisaties gemaakt kunnen worden op basis waarvan mediaprodukties ontwikkeld kunnen worden.
+
+Net als het platform Little Sis.org zal Transparant Nederland beschikken over een API waardoor onderzoeksjournalisten en datavisualisatie experts door het combineren van databestanden mediaproducties, toepassingen en visualisaties realiseren welke inzicht geven in de bestuurlijke machtsstructuren van Nederland. Al deze informatie is openbaar, maar verspreid.
+
+Met Transparant Nederland brengen we al deze informatie samen op één plaats. Bovendien faciliteert Transparant Nederland niet alleen de meewerkende mediapartners maar alle media en geïnteresseerden. Transparant Nederland stelt de journalistiek in staat haar kerntaak – controle van de macht – uit te kunnen voeren op een manier die aansluit bij de technologische mogelijkheden van de 21e eeuw. Tenslotte faciliteert Transparant Nederland andere manieren van storytelling die specifiek gericht zijn op het maatschappelijke vraagstuk over de verdeling van de macht.
+
+**Welk probleem lost jouw idee op?**
+
+De democratie is geen statisch gegeven en aan een goed functionerende democratie moet continu gewerkt worden. Een duurzame en open democratische samenleving is een samenleving, waarin onafhankelijke informatie vrij beschikbaar is. Dit waarborgt de integriteit van het openbaar bestuur en ondersteunt daarmee het algemeen belang. Burgers in Nederland hebben vertrouwen in het democratische bestel, maar hebben weinig vertrouwen in politici, politieke partijen en bestuurders.
+Door het internet wordt informatie sneller uitgewisseld, en krijgen burgers de gelegenheid deze informatie eigen te maken en te hergebruiken, ook buiten de reguliere overheid om. Hierdoor hebben burgers nieuwe instrumenten gekregen; om zich te organiseren, te participeren in het democratische proces en zich te informeren over bestuurlijke processen. Burgers hebben door internet en social media steeds meer invloed en dat gaat gepaard met een dwingende vraag om transparantie.
+
+Transparant Nederland bevordert de beschikbaarheid en vindbaarheid van open onafhankelijke informatie en bevordert de interpretatie van die informatie op een 21ste eeuwse manier ten einde het vertrouwen van burgers in politici, politieke partijen en bestuurders te vergroten. Transparant Nederland zet zich in voor een gelijkwaardige informatiepositie tussen overheid en burger door het bevorderen van transparantie, toegankelijkheid en accountabilitiy van die overheid.
+
+Op deze manier draagt Transparant Nederland bij aan een vitale en een weerbare democratie.
+
+**Wie is de gebruiker?**
+
+Transparant Nederland heeft de ambitie een aantal problemen op te lossen. Transparant Nederland wil bijdragen aan het weerbaarder maken van onze democratie door de informatiepostie van de burger te verbeteren. Openheid en transparantie rondom bestuurlijk en politieke netwerken en besluitvorming zijn uitstekende middelen om iets van dat vertrouwen van burgers te herwinnen.
+Tegelijkertijd biedt Transparant Nederland journalisten een handreiking om daadwerkelijk met data journalistiek en netwerkanalyse aan de slag te gaan, om haar kerntaak – controle van de macht – uit te kunnen voeren op een manier die aansluit bij de technologische mogelijkheden van de 21e eeuw.
+Waarom kan jouw idee succesvol zijn?
+
+Transparant Nederland bevordert de beschikbaarheid en vindbaarheid van open onafhankelijke informatie en bevordert de interpretatie van die informatie op een 21ste eeuwse manier ten einde het vertrouwen van burgers in politici, politieke partijen en bestuurders te vergroten. Transparant Nederland zet zich in voor een gelijkwaardige informatiepositie tussen overheid en burger door het bevorderen van transparantie, toegankelijkheid en accountabilitiy van die overheid.
+
+Er bestaan initiatieven die hetzelfde doel van bestuurlijke transparantie nastreven als Opencorporates.com, Little-sis.org, Influenceexplorer.com en in Nederland Toeval of Niet van Open State Foundation.
+Geen van deze initiatieven verschaft de media en de Nederlandse maatschappij in bredere zin een dataplatform waarmee netwerk analyses en visualisaties gemaakt kunnen worden op basis waarvan mediaprodukties ontwikkeld kunnen worden. En juist aan dat laatste is veel behoefte. Op deze manier vang je 2 vliegen in 1 klap. Enerzijds voorziet Transparant Nederland in de behoefte van veel instanties, organisaties, journalisten en onderzoekers om op basis van data relevante netwerk analyses te maken. Anderzijds draagt Transparant Nederland op die manier bij aan transparantie van het openbaar bestuur, waardoor onze democratie vitaler en weerbaarder wordt.
+
+**Wie gaat het idee uitvoeren?**
+
+Netwerk Democratie, Universiteit van Amsterdam, Universiteit van Leiden, Waag Society en de mediapartners: de Volkskrant, VPRO’s Tegenlicht, de Correspondent, Nieuwsuur.
+
+**Hoever ben je al?**
+
+Voor een deel kunnen we voortbouwen op de ervaring van de verschillende partners, op het gebied van dataonderzoek, analyse, visualisatie en de ontwikkeling van een dataplatform en de Application Programming Interface. We hebben met de mediapartners, journalisten betrokken die ervaring hebben met datajournalistiek. Wat betreft Transparant Nederland zijn we nog niet met de realisatie van het plan begonnen, maar hebben we wel alle partners klaarstaan om Transparant nederland te realiseren.
+Wanneer is je project succesvol?
+
+**Er zijn een aantal succescriteria te benoemen voor Transparant Nederland:**
+• Het aantal beschikbare datasets moet de doelstelling van Transparant Nederland mogelijk maken - namelijk het permanent faciliteren van netwerkanalyses door inzichtelijk te maken hoe de bestuurlijke macht in Nederland werkt op basis van (open) data van personen, organisaties en relaties.
+• Het dataplatform Transparant nederland moet gebruikt worden door de doelgroepen: de primaire doelgroep van het dataplatform Transparant Nederland zijn journalisten en daarnaast bestuurskundigen, economen, politicologen, communicatie wetenschappers en andere onderzoekers geïnteresseerd in transparantie van het openbaar bestuur;
+• Naast de produkties die de 4 mediapartners ontwikkelen, moeten er minimaal 4 andere mediaprodukties ontwikkeld worden op basis van het dataplatform Transparant Nederland. Dit willen we realiseren door tijdens de ontwikkeling van Transparant Nederland andere mediapartijen te interesseren.
+• We willen voor Transparant Nederland een succesvolle businesscase ontwikkelen, zodat het platform na afloop van het project verder zelfstandig kan bestaan.
+
+**Wat ga je ermee verdienen?**
+
+Een kansrijke benadering om met Transparant Nederland geld te verdienen is door de verkoop van data analyses. We denken hierbij aan een freemium en premium-model. Het platform Transparant Nederland levert (gratis) open data, maar Transparant Nederland kan ook verrijkte rapporten verkopen op basis van de data analyses. Het platform Transparant Nederland gaat veel met dit soort data werken, waardoor veel kennis opgebouwd wordt over de analsyse ervan. Veel instanties, organisaties, journalisten en onderzoekers proberen dit soort netwerken te maken, maar moeten zich telkens de methodologie eigen maken, data-issues oplossen.
+
+----
+
+Tags: voorbeeld
+----
+Related:
+
+- articles/dsadadasdsa
+- articles/dassdadsa 

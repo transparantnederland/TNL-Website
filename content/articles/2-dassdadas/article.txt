@@ -1,0 +1,41 @@
+Title: 'We willen de macht beter doorgronden'
+
+----
+
+Year: 
+
+----
+
+Text: 
+
+**Transparant Nederland gaat een open databank creëren met informatie over de gekozen volksvertegenwoordigers van Nederland. Doel is om de bestuurlijke machtsstructuren in kaart te brengen en zo – bijvoorbeeld – belangenverstrengeling op te merken.**
+
+Transparant Nederland ontvangt een subsidie van €93.520,00 uit de persinnovatieregeling. Met de gegevens die voortkomen uit dit dataplatform kunnen netwerkanalyses worden uitgevoerd. Zo zou bijvoorbeeld belangenverstrengeling bij politici – zoals bij een Limburgs Statenlid in 2013 – makkelijker aan het licht moeten komen.
+
+**Volksvertegenwoordigers onder de loep**
+
+Mieke van Heesewijk, projectleider van Transparant Nederland, vertelt over de doelstelling van het project. “We willen de macht in Nederland beter doorgronden. Die macht zit niet alleen in officiële structuren die er zijn, maar ook in de niet zichtbare netwerken. Die netwerken willen we zichtbaar maken. Dat je bijvoorbeeld kunt zien dat een politicus die een uitspraak doet over een nieuwe zorgwet niet alleen in de Eerste Kamer zit, maar ook bestuursvoorzitter is van een zorgverzekeraar.”
+
+Transparant Nederland wil dat voor elkaar gaan boksen door allereerst een database op te zetten met alle gekozen volksvertegenwoordigers in Nederland: de Eerste Kamer, de Tweede Kamer, de Provinciale Staten en de gemeenteraden. Die database wordt ontsloten met een API, die vervolgens gekoppeld wordt aan openbare gegevens van de Kamer van Koophandel. Dankzij die koppeling kan duidelijk worden welke verschillende petten een volksvertegenwoordiger op heeft.
+
+**Open data**
+
+De data is openbaar, maar je moet het weten te vinden. Transparant Nederland wil een slag maken om deze data beter inzichtelijk te maken. Van Heesewijk: “Vervolgens is het aan de verschillende mediapartners om met de data verschillende producties te gaan maken. De API stellen we voor iedereen ter beschikking, maar de mediapartners gaan de eerste verhalen produceren zodat we voorbeelden hebben van wat je met die data kunt doen. Mensen moeten nog wel een beetje verstand van zaken hebben als ze met zo'n API gaan werken, maar het is vrij toegankelijk.”
+
+De mediapartners zijn De Correspondent, Tegenlicht, Vrij Nederland en de Volkskrant. Laatstgenoemde ziet in de gegevens van Transparant Nederland een aanvulling op zijn jaarlijkse top 200 van de macht. Tegenlicht is van plan om een uitzending over dit onderwerp te maken. Van Heesewijk: “De mediapartners doen mee omdat ze zelf niet de mankracht hebben om deze gegevens te verzamelen. Dit soort datajournalistiek is er nog niet op dat niveau.”
+
+De data is openbaar, maar moet nog wel worden verzameld. Van Heesewijk vertelt dat er overkoepelende organisaties zijn, zoals het Interprovinciaal Overleg (IPO) en de Vereniging van Nederlandse Gemeenten (VNG), die actuele data hebben over de volksvertegenwoordigers. “We gaan in gesprek met de verschillende overkoepelende organisaties met de bedoeling om toegang te krijgen tot de databestanden. Mochten zij niet welwillend zijn, dan gaan we scrapen van de websites. Het is technisch goed mogelijk om een geautomatiseerd script te schrijven dat die data van die websites afhaalt.”
+
+**Het grotere plaatje**
+
+Van Heesewijk vervolgt: “Het uiteindelijke beeld dat ik erbij heb, is dat we het niet alleen op gekozen volksvertegenwoordigers gaan toepassen, maar dat we dit ook gaan toepassen op zelfstandige bestuursorganen. Zo kun je ook zien wie er bijvoorbeeld in de raad van advies van een ziekenhuis zit en welke contacten zij met de politiek hebben.”
+
+Inherent aan een democratie is dat de groep volksvertegenwoordigers met de tijd verandert. De data van Transparant Nederland zal dan ook snel niet meer relevant zijn, tenzij de database wordt bijgehouden. Van Heesewijk vertelt dat de exercitie van Transparant Nederland in principe niet eenmalig is, omdat er gedurende de looptijd van het project wordt gezocht naar een organisatie die de gegevens gaat bijhouden. “Hopelijk wordt dat een universitaire partner (Universiteit Leiden en de Universiteit van Amsterdam, [red.]) die nu ook al meedoet met het project.”
+
+Dat is dan ook de grotere missie van Transparant Nederland: de urgentie aankaarten van open data. Van Heesewijk: “Het open data-beleid van de overheid is tot nu toe erg gericht op documentniveau, niet op persoonsniveau. En dat willen we veranderen. Wij vinden dat de overheid die data continu en vers ter beschikking moet stellen zodat de maatschappij die data inzichtelijk heeft en daar ook analyses op kan uitvoeren. Maar het wordt nog best een klus om dat te realiseren”, aldus Van Heesewijk.
+
+De eerste producties van de mediapartners zullen naar verwachting in de loop van 2015 verschijnen.
+
+----
+
+Tags: 

@@ -1,0 +1,21 @@
+Title: Transparant Nederland
+
+----
+
+Author: Martin Risseeuw
+
+----
+
+Description: 
+
+Transparant Nederland faciliteert permanent netwerkanalyses door inzichtelijk te maken hoe de bestuurlijke macht in Nederland werkt op basis van (open) data van personen, organisaties en relaties.
+
+Transparant Nederland is enerzijds een databank waaruit de relaties en verbindingen tussen politici en mensen en organisaties in het bedrijfsleven, maatschappelijke organisaties, overheid, universiteiten en denktanks gedestilleerd worden. Om deze databank op de best mogelijke wijze te maken wordt onderzoek gedaan naar beschikbare data, een digitaal platform ontwikkeld voor ontsluiting daarvan, een API gecreëerd die hergebruik faciliteert en een business model uitgedacht en opgezet voor de continuïteit. Anderzijds is Transparant Nederland de mediacampagne met de vier mediapartners. Samen met de mediapartners wordt de database gebruikt voor netwerkanalyses en visualisaties daarvan. Deze brengen bestuurlijke machtsstructuren in kaart op basis waarvan artikelen geschreven en gepubliceerd worden of nieuwsitems kunnen worden geproduceerd.
+
+----
+
+Keywords: Transparant Nederland,Transparancy
+
+----
+
+Copyright: © 2009-(date: Year) (link: http://waag.org)
